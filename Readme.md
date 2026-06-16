@@ -84,7 +84,7 @@ Do you have a Prius?
 
 ## 🏗 Architecture
 
-<img src="architecture.png" width="900">
+<img src="Architecture.png" width="900">
 
 ---
 
