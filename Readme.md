@@ -84,31 +84,7 @@ Do you have a Prius?
 
 ## 🏗 Architecture
 
-```text
-┌────────────────────┐
-│     Streamlit UI    │
-└─────────┬──────────┘
-          │
-          ▼
-┌────────────────────┐
-│ Business Logic      │
-│ Routing Engine      │
-└─────────┬──────────┘
-          │
-          ▼
-┌────────────────────┐
-│ Vehicle Database    │
-│ cars.json           │
-└─────────┬──────────┘
-          │
-          ▼
-┌────────────────────┐
-│ Groq LLM API        │
-│ Llama 3.1 8B        │
-└────────────────────┘
-<img src=""E:\car-retailer-chatbot\Car Retail Chatbot\Architecture.png"" width="900">
-
-```
+<img src="architecture.png" width="900">
 
 ---
 
