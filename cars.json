@@ -1,0 +1,92 @@
+[
+  {
+    "name": "Honda Civic Oriel Turbo 1.5 VTEC",
+    "brand": "Honda",
+    "plate": "CY-9081",
+    "price": "PKR 7,900,000",
+    "mileage": "22,100 km",
+    "fuel": "Petrol",
+    "image": "images/car_honda_civic_CY9081.png"
+  },
+  {
+    "name": "Toyota Corolla Altis X Grande 1.8",
+    "brand": "Toyota",
+    "plate": "BFB-892",
+    "price": "PKR 6,850,000",
+    "mileage": "14,200 km",
+    "fuel": "Petrol",
+    "image": "images/car_toyota_corolla_BFB892.png"
+  },
+  {
+    "name": "Toyota Corolla Altis X Grande 1.8",
+    "brand": "Toyota",
+    "plate": "AKW-415",
+    "price": "PKR 6,400,000",
+    "mileage": "32,500 km",
+    "fuel": "Petrol",
+    "image": "images/car_toyota_corolla_AKW415.png"
+  },
+  {
+    "name": "Toyota Corolla GLI 1.3",
+    "brand": "Toyota",
+    "plate": "AKA-414",
+    "price": "PKR 4,500,000",
+    "mileage": "32,000 km",
+    "fuel": "Petrol",
+    "image": "images/car_toyota_corolla_AKA414.png"
+  },
+  {
+    "name": "Suzuki Bolan VX Euro II",
+    "brand": "Suzuki",
+    "plate": "CYK-381",
+    "price": "PKR 1,500,000",
+    "mileage": "60,000 km",
+    "fuel": "Petrol/LPG",
+    "image": "images/car_suzuki_bolan_CYK381.png"
+  },
+  {
+    "name": "Suzuki Bolan VXR Euro II",
+    "brand": "Suzuki",
+    "plate": "LYO-125",
+    "price": "PKR 1,650,000",
+    "mileage": "12,000 km",
+    "fuel": "Petrol",
+    "image": "images/car_suzuki_bolan_LYO125.png"
+  },
+  {
+    "name": "Suzuki Every GA Van",
+    "brand": "Suzuki",
+    "plate": "ISG-234",
+    "price": "PKR 2,200,000",
+    "mileage": "75,000 km",
+    "fuel": "Petrol",
+    "image": "images/car_suzuki_every_ISG234.png"
+  },
+  {
+    "name": "Suzuki Every Join Turbo",
+    "brand": "Suzuki",
+    "plate": "LYA-134",
+    "price": "PKR 2,450,000",
+    "mileage": "40,000 km",
+    "fuel": "Petrol",
+    "image": "images/car_suzuki_every_LYA134.png"
+  },
+  {
+    "name": "Toyota Land Cruiser V8 AX G-Selection",
+    "brand": "Toyota",
+    "plate": "AFA-191",
+    "price": "PKR 35,000,000",
+    "mileage": "85,000 km",
+    "fuel": "Petrol",
+    "image": "images/car_toyota_land_cruiser_AFA191.png"
+  },
+  {
+    "name": "Toyota Land Cruiser ZX Modellista",
+    "brand": "Toyota",
+    "plate": "BFA-891",
+    "price": "PKR 55,000,000",
+    "mileage": "20,000 km",
+    "fuel": "Petrol",
+    "image": "images/car_toyota_land_cruiser_BFA891.png"
+  }
+]
